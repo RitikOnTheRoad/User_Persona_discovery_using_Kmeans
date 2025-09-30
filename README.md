@@ -1,4 +1,6 @@
 **Data-Driven Behavioral Segmentation with K-Means**
+
+
 An end-to-end machine learning project to segment mobile users into distinct behavioral archetypes using unsupervised clustering.
 
 Overview
